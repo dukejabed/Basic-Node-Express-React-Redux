@@ -1,3 +1,3 @@
 # Basic-Node-Express-React-Redux
 
-A simple app created on node express as backend abd React redux as frontend
+A simple app created on node express as backend and React redux as frontend
